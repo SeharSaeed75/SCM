@@ -1,2 +1,2 @@
 # SCM
-Class project
+This is my first project.
