@@ -1,5 +1,6 @@
 # Python
 print("Hello World!")
+# Variables
 a = 2
 b = "SEHAR SAEED"
-print(b)
+print(a , b)
