@@ -1,2 +1,5 @@
 # Python
 print("Hello World!")
+a = 2
+b = "SEHAR SAEED"
+print(b)
